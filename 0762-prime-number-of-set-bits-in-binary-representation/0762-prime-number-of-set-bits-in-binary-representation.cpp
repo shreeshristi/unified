@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool isPrime(int n) {
-        if (n < 2) return false;
+        if (n < 2)
+            return false;
         for (int j = 2; j * j <= n; j++) {
             if (n % j == 0) {
                 return false;
