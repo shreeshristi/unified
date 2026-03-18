@@ -22,10 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
