@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
+| [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -31,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
+| [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
