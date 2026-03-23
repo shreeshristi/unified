@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
 ## Math
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
