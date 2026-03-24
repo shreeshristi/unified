@@ -55,8 +55,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
+| [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
