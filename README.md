@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/shreeshristi/unified/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
 ## Prefix Sum
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shreeshristi/unified/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
@@ -71,5 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shreeshristi/unified/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shreeshristi/unified/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
