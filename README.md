@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
+| [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreeshristi/unified/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreeshristi/unified/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreeshristi/unified/tree/master/0703-kth-largest-element-in-a-stream) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
