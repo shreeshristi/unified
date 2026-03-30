@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
+| [3856-trim-trailing-vowels](https://github.com/shreeshristi/unified/tree/master/3856-trim-trailing-vowels) |
 ## Math
 |  |
 | ------- |
