@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
+## Simulation
+|  |
+| ------- |
+| [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
 <!---LeetCode Topics End-->
