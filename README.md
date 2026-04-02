@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/shreeshristi/unified/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/shreeshristi/unified/tree/master/3861-minimum-capacity-box) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
