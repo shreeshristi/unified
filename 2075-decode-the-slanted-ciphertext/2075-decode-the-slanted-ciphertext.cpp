@@ -1,39 +1,47 @@
 class Solution {
 public:
+ 
+
+    void create_sen(int i, int j, string &ans, vector<vector<char>> &mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+
+        // base condition
+        if (i >= n || j >= m) return;
+
+        ans.push_back(mat[i][j]);
+
+        // move diagonally
+        create_sen(i + 1, j + 1, ans, mat);
+    }
+
     string decodeCiphertext(string s, int rows) {
         if (rows == 0) return "";
 
         int n = s.size();
         int cols = n / rows;
 
-        // Step 1: Build matrix
+        // FIXED: proper initialization
         vector<vector<char>> mat(rows, vector<char>(cols));
-        int idx = 0;
 
+        int idx = 0;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 mat[i][j] = s[idx++];
             }
         }
 
-        // Step 2: Traverse diagonals
         string ans = "";
 
-        for (int startCol = 0; startCol < cols; startCol++) {
-            int i = 0, j = startCol;
-
-            while (i < rows && j < cols) {
-                ans.push_back(mat[i][j]);
-                i++;
-                j++;
-            }
+        // Start from top row, each column
+        for (int j = 0; j < cols; j++) {
+            create_sen(0, j, ans, mat);
         }
 
-        // Step 3: Remove trailing spaces
-        while (!ans.empty() && ans.back() == ' ') {
-            ans.pop_back();
-        }
+        // remove trailing spaces
+        int end = ans.size() - 1;
+        while (end >= 0 && ans[end] == ' ') end--;
 
-        return ans;
+        return ans.substr(0, end + 1);
     }
 };
