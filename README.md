@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-cycle-length-queries-in-a-tree](https://github.com/shreeshristi/unified/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3637-trionic-array-i](https://github.com/shreeshristi/unified/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
