@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/shreeshristi/unified/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-cycle-length-queries-in-a-tree](https://github.com/shreeshristi/unified/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/shreeshristi/unified/tree/master/3861-minimum-capacity-box) |
@@ -140,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreeshristi/unified/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shreeshristi/unified/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
+## Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
+## Greedy
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->
