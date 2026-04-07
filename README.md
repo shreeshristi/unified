@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreeshristi/unified/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2069-walking-robot-simulation-ii](https://github.com/shreeshristi/unified/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/shreeshristi/unified/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreeshristi/unified/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shreeshristi/unified/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shreeshristi/unified/tree/master/3847-find-the-score-difference-in-a-game) |
