@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreeshristi/unified/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/shreeshristi/unified/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
