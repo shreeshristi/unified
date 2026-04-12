@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreeshristi/unified/tree/master/3643-flip-square-submatrix-vertically) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shreeshristi/unified/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
+| [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreeshristi/unified/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
+| [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreeshristi/unified/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shreeshristi/unified/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Breadth-First Search
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/shreeshristi/unified/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
 ## Monotonic Queue
 |  |
 | ------- |
