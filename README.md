@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreeshristi/unified/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/shreeshristi/unified/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/shreeshristi/unified/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/shreeshristi/unified/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
