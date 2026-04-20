@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/shreeshristi/unified/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
