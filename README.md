@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shreeshristi/unified/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shreeshristi/unified/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shreeshristi/unified/tree/master/0127-word-ladder) |
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shreeshristi/unified/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shreeshristi/unified/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/shreeshristi/unified/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
