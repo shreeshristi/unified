@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreeshristi/unified/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreeshristi/unified/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shreeshristi/unified/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/shreeshristi/unified/tree/master/3856-trim-trailing-vowels) |
 ## Math
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/shreeshristi/unified/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreeshristi/unified/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3637-trionic-array-i](https://github.com/shreeshristi/unified/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreeshristi/unified/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreeshristi/unified/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shreeshristi/unified/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Breadth-First Search
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
