@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreeshristi/unified/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreeshristi/unified/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shreeshristi/unified/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shreeshristi/unified/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/shreeshristi/unified/tree/master/3856-trim-trailing-vowels) |
 ## Math
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shreeshristi/unified/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shreeshristi/unified/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shreeshristi/unified/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shreeshristi/unified/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Breadth-First Search
