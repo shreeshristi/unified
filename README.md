@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreeshristi/unified/tree/master/0048-rotate-image) |
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreeshristi/unified/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shreeshristi/unified/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/shreeshristi/unified/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/shreeshristi/unified/tree/master/3871-count-commas-in-range-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/shreeshristi/unified/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 ## Trie
 |  |
