@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
@@ -216,10 +218,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
