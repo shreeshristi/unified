@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shreeshristi/unified/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreeshristi/unified/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/shreeshristi/unified/tree/master/0696-count-binary-substrings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreeshristi/unified/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreeshristi/unified/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreeshristi/unified/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shreeshristi/unified/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreeshristi/unified/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 ## Greedy
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreeshristi/unified/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
