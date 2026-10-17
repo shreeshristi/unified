@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreeshristi/unified/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/shreeshristi/unified/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreeshristi/unified/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shreeshristi/unified/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/shreeshristi/unified/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreeshristi/unified/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreeshristi/unified/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreeshristi/unified/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreeshristi/unified/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreeshristi/unified/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3638-maximum-balanced-shipments](https://github.com/shreeshristi/unified/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shreeshristi/unified/tree/master/1840-maximum-building-height) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreeshristi/unified/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/shreeshristi/unified/tree/master/2463-minimum-total-distance-traveled) |
 ## Trie
 |  |
