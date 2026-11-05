@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shreeshristi/unified/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/shreeshristi/unified/tree/master/0300-longest-increasing-subsequence) |
 | [0553-optimal-division](https://github.com/shreeshristi/unified/tree/master/0553-optimal-division) |
+| [1254-number-of-closed-islands](https://github.com/shreeshristi/unified/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/shreeshristi/unified/tree/master/1833-maximum-ice-cream-bars) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreeshristi/unified/tree/master/0048-rotate-image) |
+| [1254-number-of-closed-islands](https://github.com/shreeshristi/unified/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/shreeshristi/unified/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreeshristi/unified/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/shreeshristi/unified/tree/master/2906-construct-product-matrix) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shreeshristi/unified/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shreeshristi/unified/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
+| [1254-number-of-closed-islands](https://github.com/shreeshristi/unified/tree/master/1254-number-of-closed-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shreeshristi/unified/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shreeshristi/unified/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
+| [1254-number-of-closed-islands](https://github.com/shreeshristi/unified/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shreeshristi/unified/tree/master/0684-redundant-connection) |
+| [1254-number-of-closed-islands](https://github.com/shreeshristi/unified/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
